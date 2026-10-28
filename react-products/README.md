@@ -211,6 +211,4 @@ Luego abrir `http://localhost:5173/` en el navegador.
 
 ---
 
-## Licencia
 
-Proyecto desarrollado con fines académicos para prácticas de laboratorio.
